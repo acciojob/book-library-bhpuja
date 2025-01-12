@@ -41,7 +41,7 @@ body {
   margin: 15px;
   background-color: #fff;
   text-align: center;
-  box-shadow: rgb(46, 204, 113)
+  box-shadow: rgb(46, 204, 113);
 
   padding: 10px;
   border-radius: 8px;
@@ -79,6 +79,3 @@ body {
   font-weight: bold;
 }
 
-.book-block{
-	background-color=rgb(46, 204, 113)
-}
