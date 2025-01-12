@@ -57,6 +57,7 @@ body {
 /* Book Price Block */
 .book-price {
   font-size: 1em;
-  color: #2ecc71;
-  font-weight: bold;
+  color: white;
+background-color: green;
+
 }
