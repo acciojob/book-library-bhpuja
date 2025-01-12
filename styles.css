@@ -21,7 +21,7 @@ body {
   flex-wrap: wrap;
   background-color: #ffffff;
   padding: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: rgb(46, 204, 113);
   width: 80%;
   max-width: 1200px;
 }
@@ -41,7 +41,7 @@ body {
   margin: 15px;
   background-color: #fff;
   text-align: center;
-  box-shadow: rgb(46, 204, 113)
+  box-shadow: rgb(46, 204, 113);
 
   padding: 10px;
   border-radius: 8px;
